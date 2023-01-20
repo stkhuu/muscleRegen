@@ -17,10 +17,16 @@ To change current java version used on Windows visit https://www.happycoders.eu/
 
 After launching the Repast model with the appropriate run script described above, 
 there may be a short delay before the Repast graphical user interface appears on the screen with a scenario tree showing.   
+
+<img width="1440" alt="Screenshot 2023-01-19 at 5 02 57 PM" src="https://user-images.githubusercontent.com/118470009/213595927-4786dc62-5819-4271-86a7-e74eaaad5265.png">
+
 First click the initialise button (looks like a power button) and wait for the geometry to load.
 Next click the run button for the simulation to begin. 
 Users can navigate to the parameters by clicking on the arrow in the bottom left corner. 
 In this GUI, Users may change damage percentages and modes of damage. 
+
+<img width="1440" alt="Screenshot 2023-01-19 at 5 03 07 PM" src="https://user-images.githubusercontent.com/118470009/213595992-780d074a-77db-4562-a833-f739c21f789f.png">
+
 Note that for changes to take effect, the run needs to be stopped, the parameters must be altered and then model re-initialised and run again. 
 Test this firstly by turning off localised damage and setting Localised to 0. You should then see widespread damage in place of the original.
 
